@@ -1,2 +1,11 @@
 # HTML_CSS_Javascript
-Projects based on HTML , CSS and Javascript are inside this repository.
+
+1. Project Portfolio 
+
+Created my own Portfolio using HTML, CSS and Javascript.
+
+2. Project NEWS application
+
+Created a NEWS application using HTML, CSS and  Javascript.
+
+
