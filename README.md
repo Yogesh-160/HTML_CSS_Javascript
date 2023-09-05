@@ -12,4 +12,6 @@ Created my own Portfolio using HTML, CSS and Javascript.
 
 Created a NEWS application using HTML, CSS and  Javascript.
 
+![Screenshot (545)](https://github.com/Yogesh-160/HTML_CSS_Javascript/assets/124399567/15b05654-daca-478b-bd9b-83ceb7492ccf)
 
+More to come....
