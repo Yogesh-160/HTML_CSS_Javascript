@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#bulb{
+    height: 80vh;
+    
+    background-size: contain;
+    background-image: url(https://img.freepik.com/free-vector/realistic-light-bulb-isolated_1284-41741.jpg?w=740&t=st=1709324640~exp=1709325240~hmac=da79b5df9f7402c63e019830dacb6913952e804a2236a8a19b8306d1352e8b35);
+    background-repeat: no-repeat;
+    margin: 30px 500px ;
+    
+}
+
+button{
+    margin-left: 700px;
+    padding: 20px;
+    width: 150px;
+    font-size: 30px;
+}
+
+
+
